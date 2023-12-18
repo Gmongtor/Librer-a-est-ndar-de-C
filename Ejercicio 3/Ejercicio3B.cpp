@@ -20,3 +20,7 @@ int main() {
     } else {
         printf("Error al leer del archivo.\n");
     }
+    fclose(file);
+
+    return 0;
+}
