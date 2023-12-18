@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ejercicio_3",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicio3A::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio3A-Debug-d80a823c5ed91964bcd7.json",
+					"name" : "Ejercicio3A",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicio3B::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio3B-Debug-b7e1d890d6557be33c6d.json",
+					"name" : "Ejercicio3B",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/monge/Documents/GitHub/Librer-a-est-ndar-de-C/Ejercicio 3/cmake-build-debug",
+		"source" : "C:/Users/monge/Documents/GitHub/Librer-a-est-ndar-de-C/Ejercicio 3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
