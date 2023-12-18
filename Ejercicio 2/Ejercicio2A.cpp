@@ -14,4 +14,11 @@ int main() {
     } else {
         printf("str1 y str2 son diferentes.\n");
     }
+    int comparison2 = strcmp(str1, str3);
+    if (comparison2 == 0) {
+        printf("str1 y str3 son iguales.\n");
+    } else {
+        printf("str1 y str3 son diferentes.\n");
+    }
+    return 0;
 }
