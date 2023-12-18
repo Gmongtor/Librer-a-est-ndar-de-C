@@ -13,5 +13,7 @@ int main() {
     printf("\n");
 
     time_t start_time = time(0);
+    while(time(0) == start_time);
     printf("Números aleatorios con la segunda semilla:\n");
+
 }
