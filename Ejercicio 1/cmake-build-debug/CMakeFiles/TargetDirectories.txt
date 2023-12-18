@@ -1,0 +1,4 @@
+C:/Users/monge/Documents/GitHub/Librer-a-est-ndar-de-C/Ejercicio 1/cmake-build-debug/CMakeFiles/Ejercicio1A.dir
+C:/Users/monge/Documents/GitHub/Librer-a-est-ndar-de-C/Ejercicio 1/cmake-build-debug/CMakeFiles/Ejercicio1B.dir
+C:/Users/monge/Documents/GitHub/Librer-a-est-ndar-de-C/Ejercicio 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/monge/Documents/GitHub/Librer-a-est-ndar-de-C/Ejercicio 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
