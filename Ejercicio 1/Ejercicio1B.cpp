@@ -4,5 +4,7 @@
 #include <ctime>
 
 int main() {
+    printf("Números aleatorios con la primera semilla:\n");
     srand(time(0));
+
 }
